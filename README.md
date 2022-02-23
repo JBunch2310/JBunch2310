@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jamie Bunch
-- 👀 I’m interested in data anayalitics, software developement, and art. 
-- 🌱 I’m currently learning to be a software engineer.
+- 👀 I’m interested in data analytics, software developement, and art. 
+- 🌱 I’m currently expanding my skills in software engineering.
 - 💞️ I’m looking to collaborate on so many things.
 - 📫 How to reach me JamieBunch@ymail.com
 
